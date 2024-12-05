@@ -1,0 +1,10 @@
+train: C:\Users\Iguzz\Documents\Codes\TCC\datasets\imagens\train\imagens  # train images (relative to 'path') 128 images
+val: C:\Users\Iguzz\Documents\Codes\TCC\datasets\imagens\train\imagens  # val images (relative to 'path') 128 images
+
+# Classes
+names:
+  0: cremedeleite
+  1: bauduccowafertripochocolate
+  2: colgate
+  3: guarana
+  4: massadebolo
