@@ -18,6 +18,7 @@ precos_unitarios = {
     'bauduccowafertriplochocolate': 5.00,
     'colgate': 20.00,
     'guarana': 4.00,
+    'massadebolo': 12.00,
     # Adicione mais classes e preços conforme necessário
 }
 
